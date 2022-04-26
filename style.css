@@ -1,0 +1,27 @@
+h1 {
+    font-size: 5em;
+    color: rgb(130, 107, 107);
+}
+
+#profile_pic {
+    height: 300px
+}
+
+body {
+    background-color: blanchedalmond;
+    color: rgb(69, 53, 29);
+}
+
+div {
+    background-color: rgb(255, 213, 149);
+}
+
+a {
+    color: violet;
+    text-decoration: none ;
+}
+
+.social-icon {
+    height: 50px;
+     
+}
